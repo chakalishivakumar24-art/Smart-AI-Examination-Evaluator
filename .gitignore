@@ -1,0 +1,22 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+tests/test_temp.db
+
+# Local uploads and generated data
+data/*
+
+# Keep sample images used for testing
+!data/crop_test/
+data/crop_test/*
+!data/crop_test/*.jpg
+!data/crop_test/*.jpeg
+!data/crop_test/*.png
+

@@ -1,0 +1,304 @@
+{
+  "student_name": {
+    "label": "Student Name",
+    "total": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "samples": [
+      {
+        "sample": "sample_1_flatbed",
+        "extracted": "Bhavana Vundru",
+        "ground_truth": "Bhavana Vundru",
+        "match": true
+      },
+      {
+        "sample": "sample_2_desk_photo",
+        "extracted": "V. PARTHU",
+        "ground_truth": "V. PARTHU",
+        "match": true
+      },
+      {
+        "sample": "sample_3_purple_bg",
+        "extracted": "D. Raghuvardhan",
+        "ground_truth": "D. Raghuvardhan",
+        "match": true
+      },
+      {
+        "sample": "sample_4_bw_photo",
+        "extracted": "J. Neethu",
+        "ground_truth": "J. Neethu",
+        "match": true
+      }
+    ]
+  },
+  "enrollment_no": {
+    "label": "Enrollment Number",
+    "total": 4,
+    "correct": 3,
+    "incorrect": 1,
+    "samples": [
+      {
+        "sample": "sample_1_flatbed",
+        "extracted": "23STUCHH010066",
+        "ground_truth": "23STUCHH010066",
+        "match": true
+      },
+      {
+        "sample": "sample_2_desk_photo",
+        "extracted": "23STUCHH011177",
+        "ground_truth": "23STUCHH011177",
+        "match": true
+      },
+      {
+        "sample": "sample_3_purple_bg",
+        "extracted": "GY",
+        "ground_truth": "23STUCHH010890",
+        "match": false
+      },
+      {
+        "sample": "sample_4_bw_photo",
+        "extracted": "24STUCHH010010",
+        "ground_truth": "24STUCHH010010",
+        "match": true
+      }
+    ]
+  },
+  "test_no": {
+    "label": "Test Number",
+    "total": 4,
+    "correct": 0,
+    "incorrect": 4,
+    "samples": [
+      {
+        "sample": "sample_1_flatbed",
+        "extracted": "1",
+        "ground_truth": "Test 1",
+        "match": false
+      },
+      {
+        "sample": "sample_2_desk_photo",
+        "extracted": "1",
+        "ground_truth": "Test 2",
+        "match": false
+      },
+      {
+        "sample": "sample_3_purple_bg",
+        "extracted": "1",
+        "ground_truth": "Test 1",
+        "match": false
+      },
+      {
+        "sample": "sample_4_bw_photo",
+        "extracted": "01",
+        "ground_truth": "Test 01",
+        "match": false
+      }
+    ]
+  },
+  "section": {
+    "label": "Section",
+    "total": 4,
+    "correct": 4,
+    "incorrect": 0,
+    "samples": [
+      {
+        "sample": "sample_1_flatbed",
+        "extracted": "C",
+        "ground_truth": "C",
+        "match": true
+      },
+      {
+        "sample": "sample_2_desk_photo",
+        "extracted": "H",
+        "ground_truth": "H",
+        "match": true
+      },
+      {
+        "sample": "sample_3_purple_bg",
+        "extracted": "C",
+        "ground_truth": "C",
+        "match": true
+      },
+      {
+        "sample": "sample_4_bw_photo",
+        "extracted": "D",
+        "ground_truth": "D",
+        "match": true
+      }
+    ]
+  },
+  "date": {
+    "label": "Exam Date",
+    "total": 4,
+    "correct": 1,
+    "incorrect": 3,
+    "samples": [
+      {
+        "sample": "sample_1_flatbed",
+        "extracted": "27/11/2025",
+        "ground_truth": "27/11/2025",
+        "match": true
+      },
+      {
+        "sample": "sample_2_desk_photo",
+        "extracted": "2603/",
+        "ground_truth": "26/03/25",
+        "match": false
+      },
+      {
+        "sample": "sample_3_purple_bg",
+        "extracted": "225",
+        "ground_truth": "27/11/25",
+        "match": false
+      },
+      {
+        "sample": "sample_4_bw_photo",
+        "extracted": "1002026",
+        "ground_truth": "10/10/2026",
+        "match": false
+      }
+    ]
+  },
+  "class": {
+    "label": "Class / Batch",
+    "total": 4,
+    "correct": 0,
+    "incorrect": 4,
+    "samples": [
+      {
+        "sample": "sample_1_flatbed",
+        "extracted": "2023-27",
+        "ground_truth": "2023 - 27",
+        "match": false
+      },
+      {
+        "sample": "sample_2_desk_photo",
+        "extracted": "2023-2027",
+        "ground_truth": "2023 - 2027",
+        "match": false
+      },
+      {
+        "sample": "sample_3_purple_bg",
+        "extracted": "BTech",
+        "ground_truth": "2023 - 2027",
+        "match": false
+      },
+      {
+        "sample": "sample_4_bw_photo",
+        "extracted": "2024-2028",
+        "ground_truth": "2024 - 2028",
+        "match": false
+      }
+    ]
+  },
+  "course_title": {
+    "label": "Course Title",
+    "total": 4,
+    "correct": 2,
+    "incorrect": 2,
+    "samples": [
+      {
+        "sample": "sample_1_flatbed",
+        "extracted": "Machine Learning",
+        "ground_truth": "Machine Learning",
+        "match": true
+      },
+      {
+        "sample": "sample_2_desk_photo",
+        "extracted": "pesign  and qna1ysi's AlaoxthmS iw rtod dostnw",
+        "ground_truth": "Design and analysis of Algorithms",
+        "match": false
+      },
+      {
+        "sample": "sample_3_purple_bg",
+        "extracted": "",
+        "ground_truth": "Machine Learning",
+        "match": false
+      },
+      {
+        "sample": "sample_4_bw_photo",
+        "extracted": "Database Management System",
+        "ground_truth": "Database Management System",
+        "match": true
+      }
+    ]
+  },
+  "course_code": {
+    "label": "Course Code",
+    "total": 4,
+    "correct": 1,
+    "incorrect": 3,
+    "samples": [
+      {
+        "sample": "sample_1_flatbed",
+        "extracted": "DS804",
+        "ground_truth": "DS804",
+        "match": true
+      },
+      {
+        "sample": "sample_2_desk_photo",
+        "extracted": "C5203",
+        "ground_truth": "CS203",
+        "match": false
+      },
+      {
+        "sample": "sample_3_purple_bg",
+        "extracted": "DKAGHUVAYCNANBTECH",
+        "ground_truth": "DS304",
+        "match": false
+      },
+      {
+        "sample": "sample_4_bw_photo",
+        "extracted": "",
+        "ground_truth": "CS201",
+        "match": false
+      }
+    ]
+  },
+  "semester": {
+    "label": "Semester",
+    "total": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "samples": []
+  },
+  "instructor_name": {
+    "label": "Instructor Name",
+    "total": 0,
+    "correct": 0,
+    "incorrect": 0,
+    "samples": []
+  },
+  "grand_total": {
+    "label": "Grand Total",
+    "total": 4,
+    "correct": 0,
+    "incorrect": 4,
+    "samples": [
+      {
+        "sample": "sample_1_flatbed",
+        "extracted": "Examiner Signature:",
+        "ground_truth": "5.5",
+        "match": false
+      },
+      {
+        "sample": "sample_2_desk_photo",
+        "extracted": "5",
+        "ground_truth": "6.5",
+        "match": false
+      },
+      {
+        "sample": "sample_3_purple_bg",
+        "extracted": "",
+        "ground_truth": "6.5",
+        "match": false
+      },
+      {
+        "sample": "sample_4_bw_photo",
+        "extracted": "18/30",
+        "ground_truth": "18.0",
+        "match": false
+      }
+    ]
+  }
+}

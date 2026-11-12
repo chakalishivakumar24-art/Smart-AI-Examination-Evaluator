@@ -1,0 +1,68 @@
+{
+  "samples": [
+    {
+      "id": "sample_1_flatbed",
+      "filename": "data/uploads/09b450b9_IMG_5774 01.PNG",
+      "description": "Flatbed scan of IcfaiTech answer booklet (Machine Learning)",
+      "ground_truth": {
+        "student_name": "Bhavana Vundru",
+        "enrollment_no": "23STUCHH010066",
+        "test_no": "Test 1",
+        "section": "C",
+        "date": "27/11/2025",
+        "class": "2023 - 27",
+        "course_title": "Machine Learning",
+        "course_code": "DS804",
+        "grand_total": 5.5
+      }
+    },
+    {
+      "id": "sample_2_desk_photo",
+      "filename": "data/uploads/061d2f34_IMG_4839.JPG 02.jpeg",
+      "description": "Phone capture on wooden desk with envelope margin (Design and Analysis of Algorithms)",
+      "ground_truth": {
+        "student_name": "V. PARTHU",
+        "enrollment_no": "23STUCHH011177",
+        "test_no": "Test 2",
+        "section": "H",
+        "date": "26/03/25",
+        "class": "2023 - 2027",
+        "course_title": "Design and analysis of Algorithms",
+        "course_code": "CS203",
+        "grand_total": 6.5
+      }
+    },
+    {
+      "id": "sample_3_purple_bg",
+      "filename": "data/uploads/25b29d44_WhatsApp Image 03.jpeg",
+      "description": "Phone photo on colored background with slight perspective skew (Machine Learning)",
+      "ground_truth": {
+        "student_name": "D. Raghuvardhan",
+        "enrollment_no": "23STUCHH010890",
+        "test_no": "Test 1",
+        "section": "C",
+        "date": "27/11/25",
+        "class": "2023 - 2027",
+        "course_title": "Machine Learning",
+        "course_code": "DS304",
+        "grand_total": 6.5
+      }
+    },
+    {
+      "id": "sample_4_bw_photo",
+      "filename": "data/uploads/d9c1ef5e_IMG_5827.JPG 002.jpeg",
+      "description": "Grayscale booklet capture with denominator in grand total (DBMS 18/30)",
+      "ground_truth": {
+        "student_name": "J. Neethu",
+        "enrollment_no": "24STUCHH010010",
+        "test_no": "Test 01",
+        "section": "D",
+        "date": "10/10/2026",
+        "class": "2024 - 2028",
+        "course_title": "Database Management System",
+        "course_code": "CS201",
+        "grand_total": 18.0
+      }
+    }
+  ]
+}
