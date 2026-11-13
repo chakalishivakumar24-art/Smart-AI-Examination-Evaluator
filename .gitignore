@@ -1,22 +1,32 @@
-.venv/
-venv/
+
+# Python cache
 __pycache__/
 *.py[cod]
-.env
-.streamlit/secrets.toml
 .pytest_cache/
 .mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.streamlit/secrets.toml
+
+# Operating system files
 .DS_Store
 
+# Local databases
 tests/test_temp.db
 
-# Local uploads and generated data
+# Ignore generated data and uploaded files
 data/*
 
-# Keep sample images used for testing
+# Keep sample test images
 !data/crop_test/
 data/crop_test/*
 !data/crop_test/*.jpg
 !data/crop_test/*.jpeg
 !data/crop_test/*.png
 
+tests/*_temp.db
